@@ -1,0 +1,4 @@
+__pycache__
+*.dat
+*-checkpoint.ipynb
+*-checkpoint.py
